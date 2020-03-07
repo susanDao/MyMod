@@ -1,3 +1,3 @@
-module github.com/susanDao/MyMod/add
+module github.com/susanDao/MyMod
 
 go 1.12
